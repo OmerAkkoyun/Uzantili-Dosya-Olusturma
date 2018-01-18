@@ -8,7 +8,6 @@ Dosya Oluþturma Programý
 3.Sonra oluþturulacak yeri seçin
 Örneðin:
 masaüstü    D:        belgeler
-
 """)
 
 
@@ -23,7 +22,7 @@ try:
         time.sleep(2)
         print("Dosya oluþturuldu..")
         file =open("C:/Users/Omer/Desktop/"+isimuzanti,"a")
-		file.close()
+        file.close()
 
 
     elif yol=="D:":
@@ -31,14 +30,14 @@ try:
         time.sleep(2)
         print("Dosya oluþturuldu..")
         file = open("D:/" + isimuzanti, "a")
-		file.close()
+        file.close()
 
     elif yol=="belgeler":
         print("Dosya oluþturuluyor..")
         time.sleep(2)
         print("Dosya oluþturuldu..")
         file = open("C:/Users/Omer/Documents/"+isimuzanti,"a")
-		file.close()
+        file.close()
 
 
     else:

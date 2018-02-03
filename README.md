@@ -1,4 +1,4 @@
--Basit denemeler-
+Python examples
 ***********************
 Dosya Oluşturma Programı
 ***********************
@@ -9,4 +9,4 @@ Dosya Oluşturma Programı
 3.Sonra oluşturulacak yeri seçin
 
 Örneğin:
-masaüstü    D:        belgeler
+masaüstü    D:  C:      belgeler

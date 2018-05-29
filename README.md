@@ -1,4 +1,4 @@
-Python examples
+Python ile küçük denemeler
 ***********************
 Dosya Oluşturma Programı
 ***********************
